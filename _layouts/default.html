@@ -15,13 +15,13 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+    <header class="page-header">
+      <div class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</div>
+      <div class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</div>
      
     </header>
 
-    <main id="content" class="main-content" role="main">
+    <main id="content" class="main-content">
       {{ content }}
 
       <footer class="site-footer">

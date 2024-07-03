@@ -19,4 +19,5 @@ show_description: false
 
 *   [Placeholder resource 1](resources/resource1)
 *   [Placeholder resource 2](resources/resource2)
+*   [Brian's resource](resources/brian_resource)
 

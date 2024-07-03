@@ -17,6 +17,6 @@ show_description: false
 
 ## Current Resources
 
-*   [Placeholder resource 1](/resources/resource1/)
-*   [Placeholder resource 2](/resources/resource2/)
+*   [Placeholder resource 1](resources/resource1)
+*   [Placeholder resource 2](resources/resource2)
 

@@ -1,7 +1,11 @@
-# Teaching Accessibility to Young Coders
-2024 a11yTO Conference Presentation
+---
+layout: default
+title: Teaching Accessibility to Young Coders
+show_description: true
+description: 2024 a11yTO Conference Presentation
+---
 
-Slides: https://bit.ly/a11yto_teaching_young_coders 
+[Presentation Slides](https://bit.ly/a11yto_teaching_young_coders)
 
 Transcript follows
 

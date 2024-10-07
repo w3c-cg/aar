@@ -17,6 +17,6 @@ show_description: false
 
 ## Current Resources
 
-*   [Teaching Accessibility to Young Coders](resources/teaching_accessibility_to_young_coders)
+*   [Teaching Accessibility to Young Coders](resources/teaching_accessibility_to_young_coders/index.md)
 
 

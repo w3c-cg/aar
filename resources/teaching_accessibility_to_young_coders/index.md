@@ -1,4 +1,10 @@
-# Teaching Accessibility to Young Coders
+---
+layout: default
+title: Teaching Accessibility to Young Coders
+show_description: false
+# description: [add description to fall below h1, if necessary]
+---
+
 
 This resource is being created to find ways to incorporate accessibility principles into early education, as early as the introduction of computer science (or earlier).
 

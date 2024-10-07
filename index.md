@@ -17,6 +17,6 @@ show_description: false
 
 ## Current Resources
 
-*   [Placeholder resource 1](resources/resource1)
-*   [Placeholder resource 2](resources/resource2)
+*   [Teaching Accessibility to Young Coders](resources/teaching_accessibility_to_young_coders)
+
 

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-TBD
+To teach kids.
 
 ## Scope
 

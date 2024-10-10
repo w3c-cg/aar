@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Scope - Teaching Accessibility to Young Coders
+title: Scope - Navigating the WAI website
 show_description: false
 # description: [add description to fall below h1, if necessary]
 ---
 
 ## Purpose
 
-Building a resource to look at how to incorporate accessibility into the first instances that students learn about coding, often in middle school.
+Creating a resource that helps people navigate the WAI website.
 
-https://github.com/w3c-cg/aar/issues/5
+https://github.com/w3c-cg/aar/issues/6
 
 ## Scope
 
@@ -31,7 +31,7 @@ TBD
 
 ## Editor(s)
 
-Brian Elton (belton (at) tpgi.com)
+Kris Anne Kinney
 
 ### Contributors
 

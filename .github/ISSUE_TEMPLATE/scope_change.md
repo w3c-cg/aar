@@ -7,8 +7,8 @@ labels: "scope"
 
 Title of Resource:
 
-Current text:
+Current scope text:
 
-Suggested text:
+Suggested scope text:
 
 Rationale:

@@ -9,7 +9,6 @@ show_description: false
 
 Creating a resource that helps people navigate the WAI website.
 
-https://github.com/w3c-cg/aar/issues/6
 
 ## Scope
 
@@ -50,3 +49,7 @@ Kris Anne Kinney
 * Andrew Arch
 * Laurie Reynolds
 * Frankie Wolf
+
+## Resources
+
+* [Initial GitHub Issue](https://github.com/w3c-cg/aar/issues/6)

@@ -52,4 +52,4 @@ Kris Anne Kinney
 
 ## Resources
 
-https://github.com/w3c-cg/aar/issues/6
+* [Initial GitHub Issue](https://github.com/w3c-cg/aar/issues/6)

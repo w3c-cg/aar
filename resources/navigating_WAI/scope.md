@@ -13,21 +13,31 @@ https://github.com/w3c-cg/aar/issues/6
 
 ## Scope
 
-TBD
+Creating new tags for existing WAI pages for users to search for or filter on.  OR create a new resource with links to specific resources or sections of the WAI website based on need and usability level.   
 
 ## Audience
 
+Anyone interested in learning about or more about web accessibility at any stage of their career. 
+
 ### Primary
 
-TBD
-
+ * Developers
+ * UX Designers
+ * Educators
+ 
 ### Secondary (if appropriate)
 
-TBD
+* Procurement specialists
+* Project managers
 
 ### User Stories/Use Cases
 
-TBD
+ * Guiding someone through WAI resources based on their familiarity with web accessibility.
+   1. Beginner
+   2. Intermediate
+ * Someone looking for vetted resources to teach others about web accessibility.
+   1. Teacher
+   2. Trainer
 
 ## Editor(s)
 
@@ -35,4 +45,6 @@ Kris Anne Kinney
 
 ### Contributors
 
-TBD
+* Andrew Arch
+* Laurie Reynolds
+* Frankie Wolf

@@ -13,11 +13,13 @@ https://github.com/w3c-cg/aar/issues/6
 
 ## Scope
 
-Creating new tags for existing WAI pages for users to search for or filter on.  OR create a new resource with links to specific resources or sections of the WAI website based on need and usability level.   
+1. Create a new resource with links to specific resources or sections of the WAI website based on need and usability level.
+2. Create new tags for existing WAI pages for users to search for or filter on.
+   
 
 ## Audience
 
-Anyone interested in learning about or more about web accessibility at any stage of their career. 
+Anyone interested in learning about (or more about) web accessibility at any stage of their career. 
 
 ### Primary
 

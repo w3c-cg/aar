@@ -17,7 +17,7 @@ We welcome contributions from the accessibility community and others with an int
 
 No matter what capacity you wish to contribute, we will be using GitHub as our main source of ideation, conversation, and ultimately published materials. Suggestions, updates, edits, or new material should be brought forth either through [issues](https://github.com/w3c-cg/aar/issues) or [pull requests](https://github.com/w3c-cg/aar/pulls) (PRs).
 
-*Note:* Please read the [CONTRIBUTING](./CONTRIBUTING) guide before making any PRs.
+*Note:* Please read the [CONTRIBUTING](./CONTRIBUTING.md) guide before making any PRs.
 
 ### GitHub issues
 

@@ -11,7 +11,7 @@ This community group is in its infancy, and as such has not published* any resou
 
 We welcome contributions from the accessibility community and others with an interest in accessibility, either through comments and issues in this repository, or as a member of the [AAR community group](https://www.w3.org/community/adva11yresources/).
 
-\* The AAR CG will maintain its own website of 'published' materials. No resources from this group will be published on the WAI website unless agreed upon prior to, or during development of the resource. Publishing on the WAI website will be entirely at the descretion of the W3C staff in charge of WAI. 
+\* The AAR CG will maintain its own website of 'published' materials. No resources from this group will be published on the WAI website unless agreed upon prior to, or during development of the resource. Publishing on the WAI website will be entirely at the discretion of the W3C staff in charge of WAI. 
 
 ## How to contribute
 

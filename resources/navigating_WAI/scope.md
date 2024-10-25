@@ -30,6 +30,7 @@ Anyone interested in learning about (or more about) web accessibility at any sta
 
 * Procurement specialists
 * Project managers
+* Executives
 
 ### User Stories/Use Cases
 

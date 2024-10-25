@@ -48,6 +48,7 @@ Kris Anne Kinney
 ### Contributors
 
 * Andrew Arch
+* Len Beasley
 * Laurie Reynolds
 * Frankie Wolf
 

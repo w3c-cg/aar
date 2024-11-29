@@ -34,7 +34,7 @@ The resource will be broken down into these sections:
 
 ### Future scope
 
-As this resource develops, we will explore how to incorporate accessibility principles into learning at a younger age (5-10 years old), potentially outside of the context of computer science classes. One intent of this targeting this age group and non-computer science classes is to ensure that accessibility is considered regardless of the educational and professional direction the student takes. 
+As this resource develops, we will explore how to incorporate accessibility principles into learning at a younger age (5-10 years old), potentially outside of the context of computer science classes. One intent of targeting this age group and non-computer science classes is to ensure that accessibility is considered regardless of the educational and professional direction the student takes. 
 
 We will focus on incorporating accessibility principles into computer science and digital design classes, but equally important is to understand accessibility when it comes to digital document creation and digital content creation, as many students will use productivity software throughout their education and into professional lives. 
 

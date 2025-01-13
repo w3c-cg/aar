@@ -5,7 +5,6 @@ show_description: false
 # description: [add description to fall below h1, if necessary]
 ---
 
-
 ## Abstract
 The growing emphasis on accessibility in technology is driven by current and forthcoming legislation, necessitating broader integration of accessibility principles in product development. However, accessibility training typically targets existing product teams with little or no prior knowledge of accessibility, focusing on resolving current issues and embedding these practices into development workflows. While the accessibility community strongly advocates for integrating accessibility early in the development lifecycle — commonly referred to as "Shifting Left" — less attention has been given to incorporating accessibility into foundational education.
 

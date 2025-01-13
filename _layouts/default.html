@@ -1,37 +1,55 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 {% seo %}
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
     {% include head-custom.html %}
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
-    <header class="page-header">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      {% if site.show_description or page.show_description %}
-        <div class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</div>
-      {% endif %}
-     
-    </header>
+        <ul>
+          {% if site.show_downloads %}
+            <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
+            <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
+          {% endif %}
+          <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
+        </ul>
 
-    <main id="content" class="main-content">
-      {{ content }}
-    </main>
+        {% if site.github.is_project_page %}
+          <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
 
-    <footer class="site-footer">
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}      
-    </footer>
-    
+        {% if site.github.is_user_page %}
+          <ul>
+            <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
+          </ul>
+        {% endif %}
+      </header>
+
+      <section>
+        <h1>{{page.title}}</h1>
+        {% if page.show_description %}
+        <p>{{page.description}}</p>
+        {% endif %}
+        {{ content }}
+      </section>
+
+      <footer>
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
   </body>
 </html>

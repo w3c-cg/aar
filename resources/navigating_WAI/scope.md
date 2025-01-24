@@ -7,7 +7,7 @@ show_description: false
 
 ## Purpose
 
-Creating a resource that helps people navigate the WAI website.
+Creating a resource (guide or tags) that helps people find resources on the WAI website to aid them in learning more about digital accessibility.
 
 
 ## Scope

@@ -7,23 +7,29 @@ show_description: false
 
 ## Purpose
 
-Creating a single source of truth for accessible procurement by consolidating existing curated articles and resources while providing new content to fill gaps and help procurement professionals include accessibility in their processes.
+As organizations continue to shift left the need to optimize upstream processes is paramount. Procurement represents one of the first opportunities to meaningfully impact the accessibility of a given initiative. Despite many advancements in this area, procurement professionals struggle to manage the myriad of complex requirements often resulting in the depriortization of accessiiblity requirements.
 
 https://github.com/w3c-cg/aar/issues/4
 
 ## Scope
 
-TBD
+The goal of this group is to create an Accessible Procurement Playbook, which will:
+- outline various procurement scenarios and opportunities to embed accessibility
+- curate a list of existing resources and present them at them at the appropraite times during the playbook
+- identify gaps and opportunities for the creation of new resources
+- highlight roles and responsibilities within the procurement process
+- provide clarity on VPAT and and ACR processes
 
 ## Audience
 
 ### Primary
 
-TBD
+ - Procurement Professionals
+ - Accessibility professionals
 
 ### Secondary (if appropriate)
 
-TBD
+- Vendors 
 
 ### User Stories/Use Cases
 
@@ -35,4 +41,5 @@ Chris O'Brien
 
 ### Contributors
 
-TBD
+- Robert Jolly
+- Mike Gifford

@@ -7,7 +7,7 @@ show_description: false
 
 ## Purpose
 
-As organizations continue to shift left the need to optimize upstream processes is paramount. Procurement represents one of the first opportunities to meaningfully impact the accessibility of a given initiative. Despite many advancements in this area, procurement professionals struggle to manage the myriad of complex requirements often resulting in the depriortization of accessiiblity requirements.
+As organizations continue to shift left the need to optimize upstream processes is paramount. Procurement represents one of the first opportunities to meaningfully impact the accessibility of a given initiative. Despite many advancements in this area, procurement professionals struggle to manage the myriad of complex requirements often resulting in the depriortization of accessibility requirements.
 
 https://github.com/w3c-cg/aar/issues/4
 
@@ -15,7 +15,7 @@ https://github.com/w3c-cg/aar/issues/4
 
 The goal of this group is to create an Accessible Procurement Playbook, which will:
 - outline various procurement scenarios and opportunities to embed accessibility
-- curate a list of existing resources and present them at them at the appropraite times during the playbook
+- curate a list of existing resources and present them at the appropriate times during the playbook
 - identify gaps and opportunities for the creation of new resources
 - highlight roles and responsibilities within the procurement process
 - provide clarity on VPAT and and ACR processes
@@ -24,7 +24,7 @@ The goal of this group is to create an Accessible Procurement Playbook, which wi
 
 ### Primary
 
- - Procurement Professionals
+ - Procurement professionals
  - Accessibility professionals
 
 ### Secondary (if appropriate)

@@ -7,29 +7,36 @@ show_description: false
 
 ## Purpose
 
-As organizations continue to shift left the need to optimize upstream processes is paramount. Procurement represents one of the first opportunities to meaningfully impact the accessibility of a given initiative. Despite many advancements in this area, procurement professionals struggle to manage the myriad of complex requirements often resulting in the depriortization of accessiiblity requirements.
+Procurement plays a vital role in ensuring the development of accessible products and services. Accessibility should be embedded from the earliest stages, including ideation and vendor selection. If accessibility is not reflected in requests for proposals (RFPs) and contracts, the resulting products and services are unlikely to be accessible. Collaboration between procurement teams, contracting teams, and accessibility experts is crucial to creating inclusive outcomes.
 
-https://github.com/w3c-cg/aar/issues/4
+Despite advancements in digital accessibility, many procurement professionals deprioritize accessibility requirements due to a lack of awareness, resources, and subject-matter expertise. Accessibility is often reduced to a checkbox exercise, highlighting the need for targeted guidance and tools for procurement teams.
+
+For more information about the origins of this project, visit: [Project Issue on GitHub](https://github.com/w3c-cg/aar/issues/4)
+
 
 ## Scope
 
-The goal of this group is to create an Accessible Procurement Playbook, which will:
-- outline various procurement scenarios and opportunities to embed accessibility
-- curate a list of existing resources and present them at them at the appropraite times during the playbook
-- identify gaps and opportunities for the creation of new resources
-- highlight roles and responsibilities within the procurement process
-- provide clarity on VPAT and and ACR processes
+The Accessible Procurement Playbook aims to support procurement professionals in embedding accessibility throughout the procurement lifecycle. This playbook will:
+
+- Outline procurement scenarios and key opportunities to integrate accessibility.
+- Curate and present existing accessibility resources at relevant points in the process.
+- Identify gaps and opportunities for developing new accessibility resources.
+- Define roles and responsibilities within the procurement workflow.
+- Provide guidance on vendor accessibility attestation documents, such as Accessibility Conformance Reports (ACRs), and how they can drive accessibility improvements.
+
 
 ## Audience
 
 ### Primary
 
  - Procurement Professionals
+ - Contracting Professionals
  - Accessibility professionals
 
 ### Secondary (if appropriate)
 
-- Vendors 
+- IT Vendors
+- Accessibility professionals who create ACRs
 
 ### User Stories/Use Cases
 
